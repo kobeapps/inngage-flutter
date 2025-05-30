@@ -19,8 +19,8 @@ dependencies:
   firebase_analytics: ^11.1.0
   firebase_messaging: ^15.0.1
 
-  # localNotificaiton
-  flutter_local_notifications: ^18.0.1
+  # local notification
+  flutter_local_notifications: ^19.2.1
 
   # launch external URLs
   url_launcher: ^6.3.1
